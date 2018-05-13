@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bitalino___Projeto_LAB3.ControllerBit" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAgAAAAAAAAAAEAAACAAAAAAAgBAAAABAAAA=</HashCode>
+      <FileName>ControllerBit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ModelBit" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCEAAAAAQAIABAgAAEAAAAAAQQAACAQAABAQA4AAAAA=</HashCode>
+      <FileName>ModelBit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.Program" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAABAAACQAAAAAAAAAAAAAAABAAAIAAAAwBAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.Registo" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>SAgAAAAAAAAAAACgCAAACAAAAAIAAIAAAAQAAIIIAEg=</HashCode>
+      <FileName>Registo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.TipoExame" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgQBAAAAAAAAAEAAAA=</HashCode>
+      <FileName>TipoExame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.Utilizador" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAAAFAAAAAAAAAAAIAAAohAAAgAAAAQAEAAkg=</HashCode>
+      <FileName>Utilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewCriarRegisto" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABAAECAAABAQEACAQABCACAYAAAAMDASAAAkAAA=</HashCode>
+      <FileName>ViewCriarRegisto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewCriarUtilizador" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACASJBACAAABAAEAGEQAACCABBECkAADCEBgMBQiI=</HashCode>
+      <FileName>ViewCriarUtilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewListarRegistos" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAADAgACAggBIQAICFEAACAAAAAARAAWCQAAxAAAA=</HashCode>
+      <FileName>ViewListarRegistos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewListarUtilizadores" Collapsed="true">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAJCEBACAAgJAQGBCAAIACACAAAAAAAWAAQghsQAA=</HashCode>
+      <FileName>ViewListarUtilizadores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewMenu" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gRAAggACACAACBjQBACAASgCEAAIAQEBEEAgAAABgAA=</HashCode>
+      <FileName>ViewMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewVisualizarRegisto" Collapsed="true">
+    <Position X="6.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCHAABCABCAAAAAAAMCAQAAiAAAIABAAgGAEBBEBBAA=</HashCode>
+      <FileName>ViewVisualizarRegisto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bitalino___Projeto_LAB3.ViewVisualizarUtilizador" Collapsed="true">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCCCABAAACAAABABEAGAQCBCQAAIAAAAEDCAAAABRCI=</HashCode>
+      <FileName>ViewVisualizarUtilizador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+1000;Ricardo;25/08/1989;Masculino;176;85;1000_4.jpg;0
+1001;teste 1;01/02/2000;Masculino;200;100;1001.png;1
+1002;marcelo;09/05/1989;Masculino;175;80;1002_6.jpg;0
+1003;gssfdg;28/12/1998;Masculino;180;80;1003.png;1
+1004;fsgfdgsdfg;27/02/1996;Masculino;5;50;1004.png;1
+1005;teste final;12/06/1989;Feminino;160;50;1005_2.jpg;1
+1006;marnew;28/12/1989;Feminino;176;22;1006_2.jpg;0
+1007;marcelo;31/01/2000;Feminino;33;22;1007.jpg;1
+1008;marcelo;31/01/2000;Masculino;33;22;1008.jpg;0

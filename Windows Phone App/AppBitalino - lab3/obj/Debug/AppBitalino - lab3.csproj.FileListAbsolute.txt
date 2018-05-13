@@ -1,0 +1,455 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ricardo\documents\visual studio 2015\Projects\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PC\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 16-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2 (2)\AppBitalino-lab3 17-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-17-4-v2-2\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-19-4\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\PC\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino-lab3-20-4 FINAL\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-20-4-FINALISSIMO (2)\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\BITalino_x86.dll
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\BITalino_x86.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-4-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.xr.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\resources.pri
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppxManifest.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\bin\Debug\AppBitalino - lab3.build.appxrecipe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.i.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xaml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\App.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MainPage.xbf
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.exe
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.pdb
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ricardo\Desktop\AppBitalino-lab3-6-5-\AppBitalino - lab3\AppBitalino - lab3\obj\Debug\AppBitalino - lab3.csprojResolveAssemblyReference.cache

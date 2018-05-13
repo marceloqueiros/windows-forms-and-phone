@@ -1,0 +1,379 @@
+c:\users\marcelo\documents\visual studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.listarRegisto2.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewLiveChart.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3 Principal\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-9-abril-marcelo (1)\Bitalino - Projeto LAB3 etapa 3 9 abril marcelo\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\FiltrarBitalino-Projeto-LAB3-etapa-3-12-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\Bitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\SemiFinalBitalino-Projeto-LAB3-etapa-3-13-abril\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS Final Etapa 3 Bitalino-Projeto-LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMSE ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Desktop\FORMS ETAPA4 LAB3 (com grafico funcional)\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.pdb
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarRegisto.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewCriarUtilizador.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewEditarUtilizador.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarRegistos.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewListarUtilizadores.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewMenu.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarRegisto.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino___Projeto_LAB3.ViewVisualizarUtilizador.resources
+C:\Users\Ricardo\Desktop\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.csproj.GenerateResource.Cache
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\12 05 FINAL-FORMS-BITALINO-funcional-etapa4\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\bin\Debug\Bitalino - Projeto LAB3.exe.config
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\12 05 FINAL-FORMS-BITALINO-funcional-etapa4\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.exe
+C:\Users\marcelo\Documents\Visual Studio 2015\Projects\LAB3\12 05 FINAL-FORMS-BITALINO-funcional-etapa4\FINAL FORMS BITALINO funcional etapa4\Bitalino - Projeto LAB3\obj\Debug\Bitalino - Projeto LAB3.pdb

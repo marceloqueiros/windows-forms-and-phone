@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AAA642B1-C8EF-4EDE-A12A-B978E8E7F1A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Bitalino___Projeto_LAB3</RootNamespace>
+    <AssemblyName>Bitalino - Projeto LAB3</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BITalino_x86, Version=1.0.5721.20902, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\BITalino_x86.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bitalino Csharp\BITalinoCommunicationSerialPort.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoCommunicationSocket.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoDevice.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoErrorTypes.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoException.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoFrame.cs" />
+    <Compile Include="Bitalino Csharp\BITalinoFrameDecoder.cs" />
+    <Compile Include="Bitalino Csharp\IBITalinoCommunication.cs" />
+    <Compile Include="Bitalino1\BitalinoSerialPort.cs" />
+    <Compile Include="Bitalino1\ManagerBitalino.cs" />
+    <Compile Include="ControllerBit.cs" />
+    <Compile Include="Delegates.cs" />
+    <Compile Include="FrameRegisto.cs" />
+    <Compile Include="ModelBit.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registo.cs" />
+    <Compile Include="TipoExame.cs" />
+    <Compile Include="Utilizador.cs" />
+    <Compile Include="Utils\CSV_Parser.cs" />
+    <Compile Include="Utils\SensorDataConvertor.cs" />
+    <Compile Include="ViewCriarRegisto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCriarRegisto.Designer.cs">
+      <DependentUpon>ViewCriarRegisto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCriarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewCriarUtilizador.Designer.cs">
+      <DependentUpon>ViewCriarUtilizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEditarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEditarUtilizador.Designer.cs">
+      <DependentUpon>ViewEditarUtilizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewListarRegistos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewListarRegistos.Designer.cs">
+      <DependentUpon>ViewListarRegistos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewListarUtilizadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewListarUtilizadores.Designer.cs">
+      <DependentUpon>ViewListarUtilizadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewMenu.Designer.cs">
+      <DependentUpon>ViewMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewVisualizarRegisto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewVisualizarRegisto.Designer.cs">
+      <DependentUpon>ViewVisualizarRegisto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewVisualizarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewVisualizarUtilizador.Designer.cs">
+      <DependentUpon>ViewVisualizarUtilizador.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ViewCriarRegisto.resx">
+      <DependentUpon>ViewCriarRegisto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewCriarUtilizador.resx">
+      <DependentUpon>ViewCriarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewEditarUtilizador.resx">
+      <DependentUpon>ViewEditarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewListarRegistos.resx">
+      <DependentUpon>ViewListarRegistos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewListarUtilizadores.resx">
+      <DependentUpon>ViewListarUtilizadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewMenu.resx">
+      <DependentUpon>ViewMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewVisualizarRegisto.resx">
+      <DependentUpon>ViewVisualizarRegisto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewVisualizarUtilizador.resx">
+      <DependentUpon>ViewVisualizarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

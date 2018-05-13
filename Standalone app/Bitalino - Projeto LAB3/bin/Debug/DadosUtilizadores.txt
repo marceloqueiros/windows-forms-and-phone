@@ -1,0 +1,11 @@
+1000;Marcelo Pinto;21/1/1996;Masculino;175;70;1000.jpg;0
+1001;Ricardo Cardos;20/7/1989;Masculino;175;70;1001_1.jpg;0
+1002;Rui Carvalho;27/1/1996;Masculino;175;70;1002.jpg;0
+1003;Nuno Lopes;26/2/1996;Outros;180;25;1003.jpg;0
+1004;Tomás Azevedo;16/4/1996;Masculino;190;65;1004.jpg;0
+1005;Jorge Sousa;6/2/1996;Masculino;190;65;1005.jpg;0
+1006;Ana Araújo;6/7/1994;Feminino;165;55;1006.jpg;0
+1007;Carla Machado;14/2/1995;Feminino;165;55;1007.jpg;0
+1008;João Lomar;14/8/1996;Masculino;175;65;1008.jpg;0
+1009;Mário Sousa;13/11/1996;Masculino;175;65;1009.jpg;1
+1010;Luís Barbosa;8/2/1977;Masculino;175;70;1010.jpg;0

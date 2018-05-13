@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<ArrayOfUtilizador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Utilizador>
+    <Id_utilizador>1000</Id_utilizador>
+    <Nome>Marcelo Pinto</Nome>
+    <Idade>20</Idade>
+    <DataNascimento>1996-01-21T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>70</Peso>
+    <Fotografia>1000_2.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1001</Id_utilizador>
+    <Nome>Ricardo Cardoso</Nome>
+    <Idade>26</Idade>
+    <DataNascimento>1989-07-20T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>70</Peso>
+    <Fotografia>1001_2.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1002</Id_utilizador>
+    <Nome>Rui Carvalho</Nome>
+    <Idade>20</Idade>
+    <DataNascimento>1996-01-27T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>70</Peso>
+    <Fotografia>1002.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1003</Id_utilizador>
+    <Nome>Nuno Lopes</Nome>
+    <Idade>20</Idade>
+    <DataNascimento>1996-02-26T00:00:00</DataNascimento>
+    <Genero>Outros</Genero>
+    <Altura>180</Altura>
+    <Peso>25</Peso>
+    <Fotografia>1003.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1004</Id_utilizador>
+    <Nome>Tomás Azevedo</Nome>
+    <Idade>20</Idade>
+    <DataNascimento>1996-04-16T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>190</Altura>
+    <Peso>65</Peso>
+    <Fotografia>1004.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1005</Id_utilizador>
+    <Nome>Jorge Sousa</Nome>
+    <Idade>20</Idade>
+    <DataNascimento>1996-02-06T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>190</Altura>
+    <Peso>65</Peso>
+    <Fotografia>1005.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1006</Id_utilizador>
+    <Nome>Ana Araújo</Nome>
+    <Idade>21</Idade>
+    <DataNascimento>1994-07-06T00:00:00</DataNascimento>
+    <Genero>Feminino</Genero>
+    <Altura>164</Altura>
+    <Peso>55</Peso>
+    <Fotografia>1006_1.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1007</Id_utilizador>
+    <Nome>Carla Machado</Nome>
+    <Idade>21</Idade>
+    <DataNascimento>1995-02-14T00:00:00</DataNascimento>
+    <Genero>Feminino</Genero>
+    <Altura>165</Altura>
+    <Peso>55</Peso>
+    <Fotografia>1007.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1008</Id_utilizador>
+    <Nome>João Lomar</Nome>
+    <Idade>19</Idade>
+    <DataNascimento>1996-08-14T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>65</Peso>
+    <Fotografia>1008.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1009</Id_utilizador>
+    <Nome>Mário Sousa</Nome>
+    <Idade>19</Idade>
+    <DataNascimento>1996-11-13T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>65</Peso>
+    <Fotografia>1009.jpg</Fotografia>
+    <Estado>1</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+  <Utilizador>
+    <Id_utilizador>1010</Id_utilizador>
+    <Nome>Luís Barbosa</Nome>
+    <Idade>39</Idade>
+    <DataNascimento>1977-02-08T00:00:00</DataNascimento>
+    <Genero>Masculino</Genero>
+    <Altura>175</Altura>
+    <Peso>70</Peso>
+    <Fotografia>1010.jpg</Fotografia>
+    <Estado>0</Estado>
+    <N_registos>0</N_registos>
+  </Utilizador>
+</ArrayOfUtilizador>
